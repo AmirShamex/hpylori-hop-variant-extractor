@@ -1,0 +1,283 @@
+RID: KJKXPK86114	
+Job Title:Nucleotide Sequence 				
+Program: BLASTN 
+Query: None ID: lcl|Query_3370(dna) Length: 1557
+			            
+Subject #1:142462 ID: lcl|Query_3372 Length: 26238
+Subject #2:142463 ID: lcl|Query_3373 Length: 3302
+Subject #3:142464 ID: lcl|Query_3374 Length: 3547
+Subject #4:142465 ID: lcl|Query_3375 Length: 19067
+Subject #5:142466 ID: lcl|Query_3376 Length: 22719
+Subject #6:142467 ID: lcl|Query_3377 Length: 8024
+Subject #7:142468 ID: lcl|Query_3378 Length: 11287
+Subject #8:142469 ID: lcl|Query_3379 Length: 6736
+Subject #9:142470 ID: lcl|Query_3380 Length: 2064
+Subject #10:142471 ID: lcl|Query_3381 Length: 16177
+Subject #11:142472 ID: lcl|Query_3382 Length: 23580
+Subject #12:142473 ID: lcl|Query_3383 Length: 10631
+Subject #13:142474 ID: lcl|Query_3384 Length: 33792
+Subject #14:142475 ID: lcl|Query_3385 Length: 1629
+Subject #15:142476 ID: lcl|Query_3386 Length: 18635
+Subject #16:142477 ID: lcl|Query_3387 Length: 1760
+Subject #17:142478 ID: lcl|Query_3388 Length: 8908
+Subject #18:142479 ID: lcl|Query_3389 Length: 3824
+Subject #19:142480 ID: lcl|Query_3390 Length: 1118
+Subject #20:142481 ID: lcl|Query_3391 Length: 64027
+Subject #21:142482 ID: lcl|Query_3392 Length: 17374
+Subject #22:142483 ID: lcl|Query_3393 Length: 1534
+Subject #23:142484 ID: lcl|Query_3394 Length: 7774
+Subject #24:142485 ID: lcl|Query_3395 Length: 27075
+Subject #25:142486 ID: lcl|Query_3396 Length: 9972
+Subject #26:142487 ID: lcl|Query_3397 Length: 1230
+Subject #27:142488 ID: lcl|Query_3398 Length: 18186
+Subject #28:142489 ID: lcl|Query_3399 Length: 18486
+Subject #29:142490 ID: lcl|Query_3400 Length: 1212
+Subject #30:142491 ID: lcl|Query_3401 Length: 8443
+Subject #31:142492 ID: lcl|Query_3402 Length: 24506
+Subject #32:142493 ID: lcl|Query_3403 Length: 7500
+Subject #33:142494 ID: lcl|Query_3404 Length: 5440
+Subject #34:142495 ID: lcl|Query_3405 Length: 18945
+Subject #35:142496 ID: lcl|Query_3406 Length: 11386
+Subject #36:142497 ID: lcl|Query_3407 Length: 1558
+Subject #37:142498 ID: lcl|Query_3408 Length: 1132
+Subject #38:142499 ID: lcl|Query_3409 Length: 5053
+Subject #39:142500 ID: lcl|Query_3410 Length: 21182
+Subject #40:142501 ID: lcl|Query_3411 Length: 2213
+Subject #41:142502 ID: lcl|Query_3412 Length: 4421
+Subject #42:142503 ID: lcl|Query_3413 Length: 13131
+Subject #43:142504 ID: lcl|Query_3414 Length: 36785
+Subject #44:142505 ID: lcl|Query_3415 Length: 16120
+Subject #45:142506 ID: lcl|Query_3416 Length: 1547
+Subject #46:142507 ID: lcl|Query_3417 Length: 7348
+Subject #47:142508 ID: lcl|Query_3418 Length: 1732
+Subject #48:142509 ID: lcl|Query_3419 Length: 9277
+Subject #49:142510 ID: lcl|Query_3420 Length: 36019
+Subject #50:142511 ID: lcl|Query_3421 Length: 12867
+Subject #51:142512 ID: lcl|Query_3422 Length: 2830
+Subject #52:142513 ID: lcl|Query_3423 Length: 2001
+Subject #53:142514 ID: lcl|Query_3424 Length: 1384
+Subject #54:142515 ID: lcl|Query_3425 Length: 2407
+Subject #55:142516 ID: lcl|Query_3426 Length: 2147
+Subject #56:142517 ID: lcl|Query_3427 Length: 1228
+Subject #57:142518 ID: lcl|Query_3428 Length: 1849
+Subject #58:142519 ID: lcl|Query_3429 Length: 1113
+Subject #59:142520 ID: lcl|Query_3430 Length: 13415
+Subject #60:142521 ID: lcl|Query_3431 Length: 28373
+Subject #61:142522 ID: lcl|Query_3432 Length: 2099
+Subject #62:142523 ID: lcl|Query_3433 Length: 78621
+Subject #63:142524 ID: lcl|Query_3434 Length: 5136
+Subject #64:142525 ID: lcl|Query_3435 Length: 3200
+Subject #65:142526 ID: lcl|Query_3436 Length: 22353
+Subject #66:142527 ID: lcl|Query_3437 Length: 3643
+Subject #67:142528 ID: lcl|Query_3438 Length: 19675
+Subject #68:142529 ID: lcl|Query_3439 Length: 1372
+Subject #69:142530 ID: lcl|Query_3440 Length: 33202
+Subject #70:142531 ID: lcl|Query_3441 Length: 8960
+Subject #71:142532 ID: lcl|Query_3442 Length: 7366
+Subject #72:142533 ID: lcl|Query_3443 Length: 7369
+Subject #73:142534 ID: lcl|Query_3444 Length: 2905
+Subject #74:142535 ID: lcl|Query_3445 Length: 5200
+Subject #75:142536 ID: lcl|Query_3446 Length: 11996
+Subject #76:142537 ID: lcl|Query_3447 Length: 9077
+Subject #77:142538 ID: lcl|Query_3448 Length: 4025
+Subject #78:142539 ID: lcl|Query_3449 Length: 5362
+Subject #79:142540 ID: lcl|Query_3450 Length: 3110
+Subject #80:142541 ID: lcl|Query_3451 Length: 5926
+Subject #81:142542 ID: lcl|Query_3452 Length: 7329
+Subject #82:142543 ID: lcl|Query_3453 Length: 7944
+Subject #83:142544 ID: lcl|Query_3454 Length: 1496
+Subject #84:142545 ID: lcl|Query_3455 Length: 4659
+Subject #85:142546 ID: lcl|Query_3456 Length: 37880
+Subject #86:142547 ID: lcl|Query_3457 Length: 5803
+Subject #87:142548 ID: lcl|Query_3458 Length: 4914
+Subject #88:142549 ID: lcl|Query_3459 Length: 10621
+Subject #89:142550 ID: lcl|Query_3460 Length: 3921
+Subject #90:142551 ID: lcl|Query_3461 Length: 14326
+Subject #91:142552 ID: lcl|Query_3462 Length: 1103
+Subject #92:142553 ID: lcl|Query_3463 Length: 2847
+Subject #93:142554 ID: lcl|Query_3464 Length: 4359
+Subject #94:142555 ID: lcl|Query_3465 Length: 2268
+Subject #95:142556 ID: lcl|Query_3466 Length: 1554
+Subject #96:142557 ID: lcl|Query_3467 Length: 8017
+Subject #97:142558 ID: lcl|Query_3468 Length: 5050
+Subject #98:142559 ID: lcl|Query_3469 Length: 2313
+Subject #99:142560 ID: lcl|Query_3470 Length: 3660
+Subject #100:142561 ID: lcl|Query_3471 Length: 2469
+Subject #101:142562 ID: lcl|Query_3472 Length: 6160
+Subject #102:142563 ID: lcl|Query_3473 Length: 1878
+Subject #103:142564 ID: lcl|Query_3474 Length: 5571
+Subject #104:142565 ID: lcl|Query_3475 Length: 3765
+Subject #105:142566 ID: lcl|Query_3476 Length: 1305
+Subject #106:142567 ID: lcl|Query_3477 Length: 26604
+Subject #107:142568 ID: lcl|Query_3478 Length: 4062
+Subject #108:142569 ID: lcl|Query_3479 Length: 7104
+Subject #109:142570 ID: lcl|Query_3480 Length: 14138
+Subject #110:142571 ID: lcl|Query_3481 Length: 1638
+Subject #111:142572 ID: lcl|Query_3482 Length: 38644
+Subject #112:142573 ID: lcl|Query_3483 Length: 1165
+Subject #113:142574 ID: lcl|Query_3484 Length: 30595
+Subject #114:142575 ID: lcl|Query_3485 Length: 12970
+Subject #115:142576 ID: lcl|Query_3486 Length: 3136
+Subject #116:142577 ID: lcl|Query_3487 Length: 1121
+Subject #117:142578 ID: lcl|Query_3488 Length: 25944
+Subject #118:142579 ID: lcl|Query_3489 Length: 31029
+Subject #119:142580 ID: lcl|Query_3490 Length: 29361
+Subject #120:142581 ID: lcl|Query_3491 Length: 1979
+Subject #121:142582 ID: lcl|Query_3492 Length: 13113
+Subject #122:142583 ID: lcl|Query_3493 Length: 12494
+Subject #123:142584 ID: lcl|Query_3494 Length: 5432
+Subject #124:142585 ID: lcl|Query_3495 Length: 31579
+Subject #125:142586 ID: lcl|Query_3496 Length: 3783
+Subject #126:142587 ID: lcl|Query_3497 Length: 2687
+Subject #127:142588 ID: lcl|Query_3498 Length: 1044
+Subject #128:142589 ID: lcl|Query_3499 Length: 15724
+Subject #129:142590 ID: lcl|Query_3500 Length: 1964
+Subject #130:142591 ID: lcl|Query_3501 Length: 6978
+Subject #131:142592 ID: lcl|Query_3502 Length: 5608
+Subject #132:142593 ID: lcl|Query_3503 Length: 1702
+Subject #133:142594 ID: lcl|Query_3504 Length: 12216
+Subject #134:142595 ID: lcl|Query_3505 Length: 7194
+Subject #135:142596 ID: lcl|Query_3506 Length: 5187
+Subject #136:142597 ID: lcl|Query_3507 Length: 1838
+Subject #137:142598 ID: lcl|Query_3508 Length: 28013
+Subject #138:142599 ID: lcl|Query_3509 Length: 1188
+Subject #139:142600 ID: lcl|Query_3510 Length: 3471
+Subject #140:142601 ID: lcl|Query_3511 Length: 9174
+Subject #141:142602 ID: lcl|Query_3512 Length: 108563
+Subject #142:142603 ID: lcl|Query_3513 Length: 13813
+Subject #143:142604 ID: lcl|Query_3514 Length: 23957
+Subject #144:142605 ID: lcl|Query_3515 Length: 9212
+Subject #145:142606 ID: lcl|Query_3516 Length: 3219
+Subject #146:142607 ID: lcl|Query_3517 Length: 1555
+Subject #147:142608 ID: lcl|Query_3518 Length: 10952
+Subject #148:142609 ID: lcl|Query_3519 Length: 1551
+	                    			
+	
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+142495                                                                                            0          2361   2361  100%  0.0   94.05  18945      Query_3405       
+
+Alignments:
+
+>142495
+Sequence ID: Query_3405 Length: 18945
+Range 1: 15373 to 16929
+
+Score:2361 bits(1278), Expect:0.0, 
+Identities:1471/1564(94%),  Gaps:14/1564(0%), Strand: Plus/Plus
+
+Query  1      ATGATAAAGAAGAATAGAACGCTGTTTCTTAGTCTAGCCCTTTGCGCTAGCATAAGTTAT  60
+              ||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15373  ATGATAAAGAAAAATAGAACGCTGTTTCTTAGTCTAGCCCTTTGCGCTAGCATAAGTTAT  15432
+
+Query  61     GCCGAAGACGATGGAGGGTTTTTCACCGTCGGTTATCAGCTCGGACAGGTCATGCAAGAT  120
+              |||||||| |||||||||||||||||||||||||||||||| || || ||||||||||||
+Sbjct  15433  GCCGAAGATGATGGAGGGTTTTTCACCGTCGGTTATCAGCTTGGGCAAGTCATGCAAGAT  15492
+
+Query  121    GTCCAAAACCCAGGCGGTGCTAAAAGCGACGAACTCGCCAGAGAGCTTAACGCTGATGTA  180
+              ||||||||||||||||| |||||||||||||||||||| |||||||||||||||||||||
+Sbjct  15493  GTCCAAAACCCAGGCGGCGCTAAAAGCGACGAACTCGCTAGAGAGCTTAACGCTGATGTA  15552
+
+Query  181    ACGAACAACATTTTAAACAACAACACCGGAGGCAATGTCGCAGGGGCGTTGAGTAACGCT  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15553  ACGAACAACATTTTAAACAACAACACCGGAGGCAATGTCGCAGGGGCGTTGAGTAACGCT  15612
+
+Query  241    TTCTCCCAATACCTTTATTCGCTTTTGGGGGCTTACCCCACGAAACTCAATGGTAACGAT  300
+              |||||||||||||||||||||||||| ||||| || ||||||||||||||| ||||||||
+Sbjct  15613  TTCTCCCAATACCTTTATTCGCTTTTAGGGGCGTATCCCACGAAACTCAATAGTAACGAT  15672
+
+Query  301    GTGTCTGCGAACGCTCTTTTAAGTGGTGCGGTAGGCAGTGGGACTTGCGCGGCTGCAGGG  360
+              ||||| ||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  15673  GTGTCCGCGAACGCTCTTTTAAGTGGTGCGGTAGGCAGTGGGACTTGTGCGGCTGCAGGG  15732
+
+Query  361    ACGGCTAATAGCAGCTCTCTTGATAACAGTCAAAGCGCTTGCACCGCTGCGGGCTATTAC  420
+              ||||||  | |||  |||| |  ||||| |||||||||||||||||||||||||||||||
+Sbjct  15733  ACGGCTGGTGGCACATCTC-T--TAACACTCAAAGCGCTTGCACCGCTGCGGGCTATTAC  15789
+
+Query  421    TGGCTCCCTAGCTTGACTGACAGGATTTTAAGCACGATCGGCAGCCAGACCAACTACGGC  480
+              |||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||
+Sbjct  15790  TGGCTCCCTAGCTTGACTGACAGGATTTTAAGCACGATCGGCAGCCAGACTAACTACGGC  15849
+
+Query  481    ACGAACACCAATTTCCCCAACATGCAACAACAACTCACCTACTTGAACGCGGGGAACGTG  540
+              |||||||||||||||||||||||||||||||| |||||||||||||| |||||||| |||
+Sbjct  15850  ACGAACACCAATTTCCCCAACATGCAACAACAGCTCACCTACTTGAATGCGGGGAATGTG  15909
+
+Query  541    TTTTTTAACGCGATGAATAAGGCTTTAGTGGCTAAGAATGGAACT-G--CTA---CTAGT  594
+              |||||||| |||||||||||||||||||  |  |||||||||||| |   ||   |||||
+Sbjct  15910  TTTTTTAATGCGATGAATAAGGCTTTAG-AG--AAGAATGGAACTAGTAATAGTGCTAGT  15966
+
+Query  595    GGCACTAGCGGTGCGACTGGTTCAGATGGTCAAACTTACTCTCA-ACAAGCCATCCAATA  653
+              |||||||| |||||||||||||||||||||||||||||||| || |||||| ||||||||
+Sbjct  15967  GGCACTAGTGGTGCGACTGGTTCAGATGGTCAAACTTACTC-CACACAAGCTATCCAATA  16025
+
+Query  654    CCTTCAAAACCAACAAAATATCCTCAATAACGCAGCGAACTTGCTCAAGCAAGACGAATT  713
+              |||||||  |||||||||||| |||||||||||||||||||||||||||||||| |||||
+Sbjct  16026  CCTTCAAGGCCAACAAAATATTCTCAATAACGCAGCGAACTTGCTCAAGCAAGATGAATT  16085
+
+Query  714    GCTTTTAGAAGCTTTCAACTCTACCGTAGCCGCCAACATTGGGAATAAGGAATTCAATTC  773
+              ||| |||||||||||||||||| |||||||||||||||||||||||||||||||||||||
+Sbjct  16086  GCTCTTAGAAGCTTTCAACTCTGCCGTAGCCGCCAACATTGGGAATAAGGAATTCAATTC  16145
+
+Query  774    AGCCGCTTTTACAGGTTTGGTGCAAGGCATTATTGATCAATCTCAAGCGGTTTATAACGA  833
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  16146  AGCCGCTTTTACAGGTTTGGTGCAAGGCATTATTGATCAATCTCAAGCGGTTTATAACGA  16205
+
+Query  834    GCTCACTAAAAACACCATTAGCGGGAGCGCGGTTAATAGCGCTGGGATAAGTCCCAACCA  893
+              ||||||||||||||||||||||||||| |||||||||| |||| | |||| | |||||||
+Sbjct  16206  GCTCACTAAAAACACCATTAGCGGGAGTGCGGTTAATAACGCTAGTATAAATTCCAACCA  16265
+
+Query  894    AGCTAACGCTGTGCAAGGGCGCGCCAGTCAGCTCCCTAACGCTCTTTACAACGTGCAAGT  953
+              ||||||||||||||||||||| || ||||||||||||||||||||||| |||| ||||||
+Sbjct  16266  AGCTAACGCTGTGCAAGGGCGTGCTAGTCAGCTCCCTAACGCTCTTTATAACGCGCAAGT  16325
+
+Query  954    AACTTTGAATAAGATCAACGCGCTCAACAATCAGGTTAGAAGCATGCCTTACTTGCCCCA  1013
+              ||||||| |||| ||||| |||||||| ||||| || |||||||||||||||||||||||
+Sbjct  16326  AACTTTGGATAAAATCAATGCGCTCAATAATCAAGTAAGAAGCATGCCTTACTTGCCCCA  16385
+
+Query  1014   ATTCAGAGCCGGTAACAGTCGTTCAACGAATATCATGAACGGGTTTTACACCAAAATAGG  1073
+              |||||||||||| ||||| ||| | ||||||||  | |||||||||||||||||||||||
+Sbjct  16386  ATTCAGAGCCGGGAACAGCCGTGCGACGAATATTTTAAACGGGTTTTACACCAAAATAGG  16445
+
+Query  1074   CTACAAGCAATTCTTCGGAAAGAAAAGGAATATCGGTTTGCGCTATTACGGCTTCTTCTC  1133
+              ||| |||||||||||||| ||||||||||||||||||||||||||||| || ||||| ||
+Sbjct  16446  CTATAAGCAATTCTTCGGGAAGAAAAGGAATATCGGTTTGCGCTATTATGGTTTCTTTTC  16505
+
+Query  1134   TTATGATGGGGCGAGCGTGGGCTTTAGATCCACTCAAAACAGCGTAGGGTTATACACTTA  1193
+              |||| | || ||||||||||||||||||||||||||||| |  |||||||||||||||||
+Sbjct  16506  TTATAACGGAGCGAGCGTGGGCTTTAGATCCACTCAAAATAATGTAGGGTTATACACTTA  16565
+
+Query  1194   TGGGGTGGGGACTGATGTGTTGTATAACATCTTTAGTCGCTCCTATCAAAACCGCTCTGT  1253
+              |||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||
+Sbjct  16566  TGGGGTGGGGACTGATGTGTTGTATAACATCTTTAGCCGCTCCTATCAAAACCGCTCTGT  16625
+
+Query  1254   GGATATGGGCTTTTTTAGCGGTATCCAATTAGCCGGCGAAACCGTCCAATCCACGCTCAG  1313
+              |||||||||||||||||||||||||||||||||||| || ||| ||||||||||||||||
+Sbjct  16626  GGATATGGGCTTTTTTAGCGGTATCCAATTAGCCGGTGAGACCTTCCAATCCACGCTCAG  16685
+
+Query  1314   AGATGACCCCAATGTGAAATTGCATGGGAAAATCAATAACACGCACTTCCAGTTCCTCTT  1373
+              |||||||||||||||||||||||| || ||||||||||||||||||||||||||||||||
+Sbjct  16686  AGATGACCCCAATGTGAAATTGCACGGCAAAATCAATAACACGCACTTCCAGTTCCTCTT  16745
+
+Query  1374   TGACTTTGGTATGAGAATGAACTTCGGTAAGTTAGACGGGAAATCCAACCGCCACAACCA  1433
+              |||||| |||||||| ||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  16746  TGACTTCGGTATGAGGATGAACTTCGGTAAGTTGGACGGGAAATCCAACCGCCACAACCA  16805
+
+Query  1434   GCACACGGTGGAATTTGGCGTGGTGGTGCCTACGATTTATAACACTTATTACAAATCCGC  1493
+              ||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| ||
+Sbjct  16806  GCACACGGTGGAATTTGGCGTAGTGGTGCCTACGATTTATAACACTTATTACAAATCAGC  16865
+
+Query  1494   AGGGACTACCGTGAAGTATTTCCGTCCTTATAGCGTTTATTGGTCTTATGGGTATTCATT  1553
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  16866  AGGGACTACCGTGAAGTATTTCCGTCCTTATAGCGTTTATTGGTCTTATGGGTATTCATT  16925
+
+Query  1554   CTAA  1557
+              ||||
+Sbjct  16926  CTAA  16929
+
+
+
+
+		
+
+
